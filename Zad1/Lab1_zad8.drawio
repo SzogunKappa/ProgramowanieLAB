@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.8">
+  <diagram name="Page-1" id="w4r8Nw3fpl-bsMtwjJwj">
+    <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="92alx6JUufKwxBgNnvue-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92alx6JUufKwxBgNnvue-1" target="92alx6JUufKwxBgNnvue-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-2" value="Start" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92alx6JUufKwxBgNnvue-4" target="92alx6JUufKwxBgNnvue-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-4" value="Weź wartości a,b,c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92alx6JUufKwxBgNnvue-5" target="92alx6JUufKwxBgNnvue-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-5" value="&lt;div&gt;Oblicz deltę&lt;/div&gt;&lt;div&gt;[b^2-4(ac)]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="92alx6JUufKwxBgNnvue-6" target="92alx6JUufKwxBgNnvue-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-6" value="Nie ma rozwiązania" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92alx6JUufKwxBgNnvue-7" target="92alx6JUufKwxBgNnvue-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92alx6JUufKwxBgNnvue-7" target="92alx6JUufKwxBgNnvue-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92alx6JUufKwxBgNnvue-7" target="92alx6JUufKwxBgNnvue-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-7" value="jeśli delta jest warta" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="440" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-10" value="Mniej niż 0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92alx6JUufKwxBgNnvue-11" target="92alx6JUufKwxBgNnvue-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-11" value="Daj deltę pod pierwiastek" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="92alx6JUufKwxBgNnvue-12" target="92alx6JUufKwxBgNnvue-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-12" value="&lt;div&gt;Oblicz x&lt;/div&gt;&lt;div&gt;x = (-b)/2a&lt;/div&gt;&lt;div&gt;x jest odpowiedzią&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92alx6JUufKwxBgNnvue-13" target="92alx6JUufKwxBgNnvue-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-13" value="&lt;div&gt;Oblicz x1, x2&lt;/div&gt;&lt;div&gt;x1 = (-b+delta)/2a&lt;/div&gt;&lt;div&gt;x2 = (-b-delta)/2a&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;x1,x2 są odpowiedziami&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="580" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-15" value="Koniec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-25" value="Równe 0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="92alx6JUufKwxBgNnvue-26" value="Więcej niż 0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
